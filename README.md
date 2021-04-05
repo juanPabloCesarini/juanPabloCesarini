@@ -1,8 +1,10 @@
-### Hi there 👋
-- 🔭 I’m currently working on @Matelab
-- 🌱 I’m currently learning laravel, 
+### Welcome 👋
+- 🔭 I’m currently working on @matelab
+
  
- https://github-readme-stats.vercel.app/api?username=juanPabloCesarini&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanPabloCesarini&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanPabloCesarini&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **juanPabloCesarini/juanPabloCesarini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
