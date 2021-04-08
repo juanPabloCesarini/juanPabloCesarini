@@ -1,10 +1,10 @@
-### Welcome 👋
-- 🔭 I’m currently working on @matelab
+<h1 align="center"><b>:wave: Welcome, I'm Juan Cesarini 👋 </b></h1>
+<h3 align="center"> 🔭 I’m currently working on @matelab</h3>
 
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanPabloCesarini&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanPabloCesarini&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=juanPabloCesarini&&show_icons=true&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&count_private=true"></p> 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanPabloCesarini&bg_color=000000&text_color=FFFFFF&title_color=159E4A&langs_count=10&card_width=1000&layout=compact)](https://github.com/jpromanonet/github-readme-stats)
 
 
 <!--
