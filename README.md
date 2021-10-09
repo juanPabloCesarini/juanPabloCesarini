@@ -1,5 +1,5 @@
 <h1 align="center"><b>:wave: Welcome, I'm Juan Cesarini 👋 </b></h1>
-<h3 align="center"> 🔭 I’m currently working on <a href="https://www.matelab.com.ar" target="_blank">Matelab</a></h3>
+<h3 align="center"> 🔭 I’m currently working on <a href="https://www.thebit.ar" target="_blank">The Bit</a></h3>
 
  
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=juanPabloCesarini&&show_icons=true&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&count_private=true"></p> 
