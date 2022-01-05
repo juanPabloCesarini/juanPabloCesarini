@@ -4,7 +4,7 @@
  
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=juanPabloCesarini&&show_icons=true&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&count_private=true"></p> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanPabloCesarini&bg_color=000000&text_color=FFFFFF&title_color=159E4A&langs_count=10&card_width=1000&layout=compact)](https://github.com/jpromanonet/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanPabloCesarini&bg_color=000000&text_color=FFFFFF&title_color=159E4A&langs_count=10&card_width=1000&layout=compact)](https://github.com/juanPabloCesarini/github-readme-stats)
 
 
 <!--
